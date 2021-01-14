@@ -1,0 +1,5 @@
+# Remove elements from the list
+motorcycles = ['honda', 'yamaha', 'suzuki']
+
+last_owned = motorcycles.pop()
+print(f"The last motorcycle I owned was a {last_owned}.")
